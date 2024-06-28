@@ -1,0 +1,1 @@
+# Tech-Ist-ders-11-WC-Gradio
